@@ -3,4 +3,6 @@
 * avacado
 * lime
 * salt
+* black paper
+* spicies 
 ##Instruction
