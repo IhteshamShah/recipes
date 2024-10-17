@@ -5,4 +5,3 @@
 * salt
 * black paper
 * spicies 
-##Instruction
